@@ -1,6 +1,6 @@
 # Konteks repo (untuk asisten AI)
 
-- Video **"Arus yang Mengangkat" — Fluida Dinamis** (Fisika Umum, S1 Kimia UNESA) milik **Yayan** (Septian Anugrah Dwi Putra), seri Fisika Umum #3. Seri #1 = `video-fisika-energi`, #2 = `video-fisika-fluida-statis` (mesin, komponen, dan alur kerja disalin dari #2). Aturan umum & pelajaran teknis: repo `septiananugrah-ship-it/science-intro` → `CLAUDE.md`.
+- Video **"Arus yang Mengangkat" — Fluida Dinamis** (Fisika Umum, S1 Kimia UNESA) milik **Yayan** (Septian Anugrah Dwi Putra), seri Fisika Umum #3. Seri #1 = `video-fisika-energi`, #2 = `video-fisika-fluida-statis` (mesin, komponen, dan alur kerja disalin dari #2). Aturan umum & pelajaran teknis: repo `anugrahyayan67-collab/science-intro` → `CLAUDE.md`.
 - Seri berikutnya (repo terpisah): **Momentum**. Angka yang dipakai dicek di `naskah/AUDIT.md`.
 - Branding: **tanpa intro SCIENTIAN terpisah** (pengguna: cukup di judul pembuka) — judul menampilkan kapsul logo S + "Explore Science with Yayan"; outro SCIENTIAN + "Disusun oleh Septian Anugrah Dwi Putra" + "Berikutnya: Momentum".
 - Gaya seri **"Lab"** (malam biru tinta + kisi cetak biru, Space Grotesk/Inter/JetBrains Mono/Source Serif 4) dengan nuansa **aliran**: garis arus yang terus mengalir, partikel yang mempercepat di bagian sempit, rumus fluida dinamis melayang di latar.
